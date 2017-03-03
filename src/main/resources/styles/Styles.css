@@ -1,0 +1,51 @@
+.button {
+    -fx-background-color: transparent;
+}
+
+.quick_button_bar {
+    -fx-background-color: #444444;
+}
+
+.shutdown_button {
+    -fx-background-image: url(../images/shutdown.png);
+}
+
+.shutdown_button:hover {
+    -fx-background-image: url(../images/hover_shutdown.png);
+}
+
+.hibernate_button {
+    -fx-background-image: url(../images/hibernate.png);
+}
+
+.hibernate_button:hover {
+    -fx-background-image: url(../images/hover_hibernate.png);
+}
+
+.restart_button {
+    -fx-background-image: url(../images/restart.png);
+}
+
+.restart_button:hover {
+    -fx-background-image: url(../images/hover_restart.png);
+}
+
+.timer_button_bar {
+    -fx-background-color: #333333;
+}
+
+.set_button {
+    -fx-background-image: url(../images/set.png);
+}
+
+.set_button:hover {
+    -fx-background-image: url(../images/hover_set.png);
+}
+
+.cancel_button {
+    -fx-background-image: url(../images/cancel.png);
+}
+
+.cancel_button:hover {
+    -fx-background-image: url(../images/hover_cancel.png);
+}
